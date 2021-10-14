@@ -10,6 +10,7 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 
 # 조건
 나이
+
 레벨
 ## Header 2
 ### Header 3
