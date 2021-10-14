@@ -6,9 +6,11 @@
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-Syntax highlighted code block
 
-# Header 1
+
+# 조건
+나이
+레벨
 ## Header 2
 ### Header 3
 
