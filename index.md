@@ -1,17 +1,18 @@
-## Welcome to MarshMello
+## KartRider MarshMello
 
 무부 클럽 '마시멜로' 입니다!
 
 ### 조건
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-
 
 # 조건
-나이
 
-레벨
+나이 : 17세 이상 
+
+레벨 : 60렙 이상
+
+클장 : 뚠레     -     윤영진 : 뚠레 지명
+
 ## Header 2
 ### Header 3
 
