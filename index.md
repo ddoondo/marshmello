@@ -9,7 +9,8 @@
 - 레벨 : 60렙 이상
 
 - 클장 : 뚠레
-- 운영진 : 뚠레 지명
+- 
+- 운영진 : 뚠도, 지명
 
 ### 필수맵
 - 빌리지 고가의 질주
@@ -23,7 +24,7 @@
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
+[Link](https://ddoondo.github.io/marshmello/) and ![Image](src)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
