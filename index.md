@@ -1,8 +1,8 @@
-### KartRider MarshMello
+### _KartRider MarshMello_
 
-- 무부 클럽 '마시멜로' 입니다!
+- 무부 클럽 '***마시멜로***' 입니다!
 
-### 조건
+### _조건_
 
 - 나이 : 17세 이상 
 
@@ -24,10 +24,8 @@
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](https://ddoondo.github.io/marshmello/) and ![Image](<img src="/read/image/?mailSN=469&amp;attachIndex=2&amp;contentType=image/png&amp;offset=2397&amp;size=103046&amp;maxSize=200&amp;mimeSN=1634202979.275429.55569.22272&amp;u=g_mango" style="max-width:200px;max-height:200px" alt="첨부 파일 이미지 미리보기">)
-```
+[Link](https://ddoondo.github.io/marshmello/) and ![Image](img src="/read/image/?mailSN=469&amp;attachIndex=2&amp;contentType=image/png&amp;offset=2397&amp;size=103046&amp;maxSize=200&amp;mimeSN=1634202979.275429.55569.22272&amp;u=g_mango" style="max-width:200px;max-height:200px" alt="첨부 파일 이미지 미리보기")
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
 
